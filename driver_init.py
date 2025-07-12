@@ -1,10 +1,19 @@
 import json
 import time
+import os
+import sys
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver import ChromeOptions
 from selenium.common.exceptions import WebDriverException
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
 
+def get_resource_path(relative_path):
+    """获取资源的绝对路径，适用于开发环境和PyInstaller打包后的环境"""
+    if hasattr(sys, '_MEIPASS'):  # PyInstaller打包后的临时目录
+        return os.path.join(sys._MEIPASS, relative_path)
+    return os.path.join(os.path.abspath("."), relative_path)
 
 def initialize_driver():
     # 初始化Chrome浏览器驱动
@@ -47,7 +56,20 @@ def initialize_driver():
     
     for attempt in range(max_retries):
         try:
-            driver = webdriver.Chrome(options=options)
+            # 尝试使用打包后的chromedriver
+            try:
+                chromedriver_path = get_resource_path("chromedriver.exe")
+                if os.path.exists(chromedriver_path):
+                    service = Service(executable_path=chromedriver_path)
+                    driver = webdriver.Chrome(service=service, options=options)
+                else:
+                    # 如果找不到打包的chromedriver，使用webdriver_manager下载
+                    service = Service(ChromeDriverManager().install())
+                    driver = webdriver.Chrome(service=service, options=options)
+            except Exception:
+                # 如果上述方法都失败，尝试直接创建
+                driver = webdriver.Chrome(options=options)
+                
             driver.set_page_load_timeout(30)  # 增加页面加载超时时间
             driver.set_script_timeout(30)     # 设置脚本执行超时时间
             return driver
@@ -63,6 +85,7 @@ def cookies_web(driver, cookie_path):
     # 设置浏览器的cookie
     print("设置cookie中.....")
     try:
+        cookie_path = get_resource_path(cookie_path)
         with open(cookie_path, 'r') as f:
             cookies = json.load(f)
         

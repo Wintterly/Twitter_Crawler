@@ -1,12 +1,44 @@
 import json
 import time
+import os
+import sys
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+
+# 资源路径处理函数
+def get_resource_path(relative_path):
+    """获取资源的绝对路径，适用于开发环境和PyInstaller打包后的环境"""
+    if hasattr(sys, '_MEIPASS'):  # PyInstaller打包后的临时目录
+        return os.path.join(sys._MEIPASS, relative_path)
+    return os.path.join(os.path.abspath("."), relative_path)
+
+# 初始化浏览器
+def init_browser():
+    options = webdriver.ChromeOptions()
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
+    options.add_argument('--disable-blink-features=AutomationControlled')
+    
+    try:
+        # 尝试使用打包后的chromedriver
+        chromedriver_path = get_resource_path("chromedriver.exe")
+        if os.path.exists(chromedriver_path):
+            service = Service(executable_path=chromedriver_path)
+            return webdriver.Chrome(service=service, options=options)
+        else:
+            # 如果找不到打包的chromedriver，使用webdriver_manager下载
+            service = Service(ChromeDriverManager().install())
+            return webdriver.Chrome(service=service, options=options)
+    except Exception:
+        # 如果上述方法都失败，尝试直接创建
+        return webdriver.Chrome(options=options)
 
 # 生成cookies
-browser = webdriver.Chrome()
+browser = init_browser()
 
 try:
     browser.get("https://x.com/i/flow/login")
@@ -31,8 +63,9 @@ try:
         
         if has_auth:
             jsonCookies = json.dumps(cookies)
+            cookie_path = 'X_cookie.json'
             print("\n\033[92m登录成功,已保存cookies\033[0m")
-            with open('X_cookie.json', 'w') as f:
+            with open(cookie_path, 'w') as f:
                 f.write(jsonCookies)
         else:
             print("\n\033[91m登录失败,未获取到有效cookies,请重试\033[0m")

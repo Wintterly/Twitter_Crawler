@@ -50,7 +50,18 @@ a = Analysis(
         'glob',
         'threading',
         'queue',
-        'signal'
+        'signal',
+        # 添加自动下载ChromeDriver的依赖
+        'webdriver_manager',
+        'webdriver_manager.chrome',
+        # Windows环境下可能需要的额外依赖
+        'win32api',
+        'win32con',
+        'win32gui',
+        'selenium.webdriver.chrome.service',
+        'importlib.metadata',
+        'packaging',
+        'packaging.version'
     ],
     hookspath=[],
     hooksconfig={},
@@ -83,4 +94,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
+    icon='icon.ico' if os.path.exists('icon.ico') else None,
 ) 

@@ -18,7 +18,36 @@ import importlib
 import time
 import logging
 from pathlib import Path
-# 移除直接导入set_cookie
+
+# 导入工具模块
+try:
+    from utils import get_resource_path, ensure_dir, setup_logging
+except ImportError:
+    # 如果utils模块不存在，定义必要的函数
+    def get_resource_path(relative_path):
+        if hasattr(sys, '_MEIPASS'):  # PyInstaller打包后的临时目录
+            base_path = sys._MEIPASS
+        else:
+            base_path = os.path.abspath(".")
+        return os.path.join(base_path, relative_path)
+    
+    def ensure_dir(directory):
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+        return directory
+    
+    def setup_logging(log_dir='logs'):
+        log_dir = Path(log_dir)
+        log_dir.mkdir(exist_ok=True)
+        log_filename = log_dir / f'crawler_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'
+        logger = logging.getLogger('TwitterCrawler')
+        logger.setLevel(logging.INFO)
+        file_handler = logging.FileHandler(log_filename, encoding='utf-8')
+        file_handler.setLevel(logging.INFO)
+        formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+        file_handler.setFormatter(formatter)
+        logger.addHandler(file_handler)
+        return logger
 
 """
 Twitter爬虫图形界面程序
@@ -124,28 +153,7 @@ class TwitterCrawlerUI(QMainWindow):
 
     def setup_logging(self):
         """设置日志记录器"""
-        # 创建logs目录（如果不存在）
-        log_dir = Path('logs')
-        log_dir.mkdir(exist_ok=True)
-        
-        # 生成日志文件名（使用当前时间）
-        log_filename = log_dir / f'crawler_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'
-        
-        # 配置日志记录器
-        self.logger = logging.getLogger('TwitterCrawler')
-        self.logger.setLevel(logging.INFO)
-        
-        # 创建文件处理器
-        file_handler = logging.FileHandler(log_filename, encoding='utf-8')
-        file_handler.setLevel(logging.INFO)
-        
-        # 设置日志格式
-        formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
-        file_handler.setFormatter(formatter)
-        
-        # 添加处理器到日志记录器
-        self.logger.addHandler(file_handler)
-        
+        self.logger = setup_logging()
         self.logger.info('日志系统初始化完成')
 
     def log_message(self, message, level='info'):
@@ -428,7 +436,7 @@ class TwitterCrawlerUI(QMainWindow):
 
     def check_cookie_valid(self):
         try:
-            cookie_file = 'X_cookie.json'
+            cookie_file = get_resource_path('X_cookie.json')
             if not os.path.exists(cookie_file):
                 return False
             
@@ -631,7 +639,8 @@ end_time = '{config.end_time}' # 设置结束的获取日期，格式为2023-10-
 urls_num = {config.urls_num}
 '''
             # 写入文件
-            with open('config.py', 'w', encoding='utf-8') as f:
+            config_path = 'config.py'
+            with open(config_path, 'w', encoding='utf-8') as f:
                 f.write(config_content)
             
             # 记录配置更新

@@ -35,7 +35,7 @@
 
 1. 克隆项目到本地
 ```bash
-git clone [项目地址]
+git clone https://github.com/Wintterly/Twitter_Crawler.git
 cd twitter_Crawler
 ```
 

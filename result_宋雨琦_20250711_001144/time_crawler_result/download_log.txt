@@ -1,0 +1,243 @@
+下载日志创建时间: 2025-07-11 00:11:56
+爬取标签: 宋雨琦
+--------------------------------------------------
+图片将保存在文件夹: result_宋雨琦_20250711_001144/time_crawler_result
+时间范围: 2025-07-01 到 2025-07-05
+日志文件: result_宋雨琦_20250711_001144/time_crawler_result/download_log.txt
+
+开始爬取...
+重置浏览器状态...
+浏览器状态已重置
+等待页面加载...
+正在等待页面元素加载，最长等待时间为60秒...
+找到 5 个帖子元素
+
+跳过时间范围外的帖子：https://x.com/YUNOOMM/status/1943333436468477998
+帖子时间：2025-07-10T15:36:11.000Z
+
+跳过时间范围外的帖子：https://x.com/shumce1/status/1943289205624357096
+帖子时间：2025-07-10T12:40:25.000Z
+
+跳过时间范围外的帖子：https://x.com/iateabatterysel/status/1943147131864281476
+帖子时间：2025-07-10T03:15:52.000Z
+
+跳过时间范围外的帖子：https://x.com/shumce1/status/1943008501074391507
+帖子时间：2025-07-09T18:05:00.000Z
+
+跳过时间范围外的帖子：https://x.com/wewe6868/status/1942932093614588195
+帖子时间：2025-07-09T13:01:23.000Z
+
+跳过时间范围外的帖子：https://x.com/yuqi_nan9399/status/1942194354204119127
+帖子时间：2025-07-07T12:09:52.000Z
+
+跳过时间范围外的帖子：https://x.com/jh_jkna/status/1941859484928012425
+帖子时间：2025-07-06T13:59:13.000Z
+
+跳过时间范围外的帖子：https://x.com/shumce1/status/1941836735761281258
+帖子时间：2025-07-06T12:28:50.000Z
+
+跳过时间范围外的帖子：https://x.com/jigumiyawaki/status/1941831410853290191
+帖子时间：2025-07-06T12:07:40.000Z
+
+跳过时间范围外的帖子：https://x.com/mnyjsk10/status/1941810546116051225
+帖子时间：2025-07-06T10:44:45.000Z
+
+跳过时间范围外的帖子：https://x.com/shumce1/status/1941742704410624484
+帖子时间：2025-07-06T06:15:11.000Z
+
+跳过时间范围外的帖子：https://x.com/oldmoney78/status/1941664127426166967
+帖子时间：2025-07-06T01:02:57.000Z
+
+跳过时间范围外的帖子：https://x.com/oldmoney78/status/1941652685230571863
+帖子时间：2025-07-06T00:17:28.000Z
+
+当前帖子的url为：https://x.com/oldmoney78/status/1941639373759697138
+时间为：2025-07-05T23:24:35.000Z，找到1张图片
+
+当前帖子的url为：https://x.com/zhioychina/status/1941565592529740072
+时间为：2025-07-05T18:31:24.000Z，找到7张图片
+媒体链接: https://pbs.twimg.com/media/GvHTnClaAAE1CRT?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/GvHTnCnbQAAZg85?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/GvHTnDZWwAACOd4?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/GvHTnDbWsAAuJX2?format=png&name=large
+
+当前帖子的url为：https://x.com/Karin_Aizen/status/1941536233106309193
+时间为：2025-07-05T16:34:44.000Z，找到4张图片
+
+当前帖子的url为：https://x.com/oldmoney78/status/1941532337570972062
+时间为：2025-07-05T16:19:15.000Z，找到1张图片
+
+当前帖子的url为：https://x.com/oldmoney78/status/1941517617988284884
+时间为：2025-07-05T15:20:46.000Z，找到1张图片
+
+当前帖子的url为：https://x.com/armstrong0730/status/1941475773057274007
+时间为：2025-07-05T12:34:29.000Z，找到8张图片
+
+当前帖子的url为：https://x.com/oldmoney78/status/1941377972033974447
+时间为：2025-07-05T06:05:52.000Z，找到1张图片
+
+当前帖子的url为：https://x.com/oldmoney78/status/1941374857419293057
+时间为：2025-07-05T05:53:29.000Z，找到1张图片
+
+当前帖子的url为：https://x.com/oldmoney78/status/1941372766189699493
+时间为：2025-07-05T05:45:11.000Z，找到1张图片
+
+当前帖子的url为：https://x.com/pZNlowLypJaXq49/status/1941357147843080675
+时间为：2025-07-05T04:43:07.000Z，找到2张图片
+媒体链接: https://pbs.twimg.com/media/GvEWB9aXwAA_GOe?format=png&name=large
+
+当前帖子的url为：https://x.com/oldmoney78/status/1941343261546906021
+时间为：2025-07-05T03:47:56.000Z，找到1张图片
+
+当前帖子的url为：https://x.com/shumce1/status/1941305306946076971
+时间为：2025-07-05T01:17:07.000Z，找到3张图片
+媒体链接: https://pbs.twimg.com/media/GvDm4h2WAAAcrhy?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/GvDm4jgXsAAZR76?format=png&name=large
+
+当前帖子的url为：https://x.com/shumce1/status/1941304630790717582
+时间为：2025-07-05T01:14:26.000Z，找到2张图片
+
+当前帖子的url为：https://x.com/lovesoftmusic/status/1941300115303772405
+时间为：2025-07-05T00:56:29.000Z，找到7张图片
+
+当前帖子的url为：https://x.com/kissme_catt/status/1941152296097968398
+时间为：2025-07-04T15:09:06.000Z，找到1张图片
+
+当前帖子的url为：https://x.com/choonlong6/status/1941116172709363726
+时间为：2025-07-04T12:45:34.000Z，找到1张图片
+
+当前帖子的url为：https://x.com/yuqi_nan9399/status/1941113267398807814
+时间为：2025-07-04T12:34:01.000Z，找到2张图片
+
+当前帖子的url为：https://x.com/shumce1/status/1941087514816917512
+时间为：2025-07-04T10:51:41.000Z，找到3张图片
+媒体链接: https://pbs.twimg.com/media/GvAgydgbcAA0VuJ?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/GvAgyejWMAAyqd4?format=png&name=large
+
+当前帖子的url为：https://x.com/YUNOOMM/status/1941083091860373820
+时间为：2025-07-04T10:34:07.000Z，找到2张图片
+帖子链接https://x.com/zhioychina/status/1941565592529740072
+帖子链接https://x.com/zhioychina/status/1941565592529740072
+帖子链接https://x.com/zhioychina/status/1941565592529740072
+开始下载https://pbs.twimg.com/media/GvHTnClaAAE1CRT?format=png&name=large
+帖子链接https://x.com/pZNlowLypJaXq49/status/1941357147843080675
+开始下载https://pbs.twimg.com/media/GvHTnDZWwAACOd4?format=png&name=large
+帖子链接https://x.com/zhioychina/status/1941565592529740072
+帖子链接https://x.com/shumce1/status/1941305306946076971
+开始下载https://pbs.twimg.com/media/GvHTnDbWsAAuJX2?format=png&name=large
+开始下载https://pbs.twimg.com/media/GvHTnCnbQAAZg85?format=png&name=large
+开始下载https://pbs.twimg.com/media/GvEWB9aXwAA_GOe?format=png&name=large
+开始下载https://pbs.twimg.com/media/GvDm4h2WAAAcrhy?format=png&name=large
+
+当前帖子的url为：https://x.com/shumce1/status/1940666109268840834
+时间为：2025-07-03T06:57:10.000Z，找到2张图片
+
+当前帖子的url为：https://x.com/shumce1/status/1940660866439107017
+时间为：2025-07-03T06:36:20.000Z，找到3张图片
+媒体链接: https://pbs.twimg.com/media/Gu6cvmyWkAAxoR7?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/Gu6cvnZWUAAzrPm?format=png&name=large
+
+当前帖子的url为：https://x.com/lovesoftmusic/status/1940595493912166445
+时间为：2025-07-03T02:16:34.000Z，找到4张图片
+GvDm4h2WAAAcrhy.png 下载完成
+
+
+当前帖子的url为：https://x.com/markVIIseventh/status/1940454374339498306
+时间为：2025-07-02T16:55:49.000Z，找到1张图片
+
+当前帖子的url为：https://x.com/kikikik04864662/status/1940448919940714510
+时间为：2025-07-02T16:34:08.000Z，找到3张图片
+媒体链接: https://pbs.twimg.com/media/Gu3cAViWQAcmuPM?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/Gu3cAVmWQAkeEhK?format=png&name=large
+
+当前帖子的url为：https://x.com/shumce1/status/1940418558296776844
+时间为：2025-07-02T14:33:30.000Z，找到4张图片
+
+当前帖子的url为：https://x.com/shumce1/status/1940400748359188768
+时间为：2025-07-02T13:22:43.000Z，找到2张图片
+
+当前帖子的url为：https://x.com/YUNOOMM/status/1940378832919494672
+时间为：2025-07-02T11:55:38.000Z，找到2张图片
+媒体链接: https://pbs.twimg.com/media/Gu2cQW7XQAAl4RG?format=png&name=large
+
+当前帖子的url为：https://x.com/YUNOOMM/status/1940348616641827267
+时间为：2025-07-02T09:55:34.000Z，找到2张图片
+媒体链接: https://pbs.twimg.com/media/Gu2AtR0XYAAm1cd?format=png&name=large
+
+当前帖子的url为：https://x.com/Ale_NSSJ/status/1940250117187280998
+时间为：2025-07-02T03:24:10.000Z，找到9张图片
+媒体链接: https://pbs.twimg.com/media/Gus2EDdaYAAL52c?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/Gus2ElnakAAls4n?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/Gus2FFSaAAAyg2l?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/Gus2FqXa0AAtO4m?format=png&name=large
+帖子链接https://x.com/shumce1/status/1941305306946076971
+开始下载https://pbs.twimg.com/media/GvDm4jgXsAAZR76?format=png&name=large
+GvEWB9aXwAA_GOe.png 下载完成
+
+GvHTnDbWsAAuJX2.png 下载完成
+
+GvHTnDZWwAACOd4.png 下载完成
+
+帖子链接https://x.com/shumce1/status/1941087514816917512
+帖子链接https://x.com/shumce1/status/1940660866439107017
+帖子链接https://x.com/shumce1/status/1941087514816917512
+开始下载https://pbs.twimg.com/media/Gu6cvmyWkAAxoR7?format=png&name=large
+开始下载https://pbs.twimg.com/media/GvAgydgbcAA0VuJ?format=png&name=large
+开始下载https://pbs.twimg.com/media/GvAgyejWMAAyqd4?format=png&name=large
+GvHTnClaAAE1CRT.png 下载完成
+
+GvHTnCnbQAAZg85.png 下载完成
+
+帖子链接https://x.com/shumce1/status/1940660866439107017
+开始下载https://pbs.twimg.com/media/Gu6cvnZWUAAzrPm?format=png&name=large
+获取到帖子时间为2025-06-30T12:50:15.000Z，已经超出start_time，停止获取新帖子
+
+==============================下载线程继续运行==============================
+
+帖子链接https://x.com/kikikik04864662/status/1940448919940714510
+开始下载https://pbs.twimg.com/media/Gu3cAViWQAcmuPM?format=png&name=large
+GvDm4jgXsAAZR76.png 下载完成
+
+帖子链接https://x.com/kikikik04864662/status/1940448919940714510
+开始下载https://pbs.twimg.com/media/Gu3cAVmWQAkeEhK?format=png&name=large
+Gu6cvmyWkAAxoR7.png 下载完成
+
+帖子链接https://x.com/YUNOOMM/status/1940378832919494672
+开始下载https://pbs.twimg.com/media/Gu2cQW7XQAAl4RG?format=png&name=large
+Gu3cAViWQAcmuPM.png 下载完成
+
+GvAgydgbcAA0VuJ.png 下载完成
+
+Gu3cAVmWQAkeEhK.png 下载完成
+
+帖子链接https://x.com/YUNOOMM/status/1940348616641827267
+帖子链接https://x.com/Ale_NSSJ/status/1940250117187280998
+帖子链接https://x.com/Ale_NSSJ/status/1940250117187280998
+开始下载https://pbs.twimg.com/media/Gus2EDdaYAAL52c?format=png&name=large
+开始下载https://pbs.twimg.com/media/Gu2AtR0XYAAm1cd?format=png&name=large
+开始下载https://pbs.twimg.com/media/Gus2ElnakAAls4n?format=png&name=large
+Gu2cQW7XQAAl4RG.png 下载完成
+
+帖子链接https://x.com/Ale_NSSJ/status/1940250117187280998
+开始下载https://pbs.twimg.com/media/Gus2FFSaAAAyg2l?format=png&name=large
+Gu6cvnZWUAAzrPm.png 下载完成
+
+帖子链接https://x.com/Ale_NSSJ/status/1940250117187280998
+收到结束信号，结束下载线程
+开始下载https://pbs.twimg.com/media/Gus2FqXa0AAtO4m?format=png&name=large
+Gus2EDdaYAAL52c.png 下载完成
+
+Gu2AtR0XYAAm1cd.png 下载完成
+
+Gus2ElnakAAls4n.png 下载完成
+
+Gus2FqXa0AAtO4m.png 下载完成
+
+Gus2FFSaAAAyg2l.png 下载完成
+
+
+正在从日志中提取媒体链接...
+未找到媒体链接或保存失败
+所有下载任务已完成
+GvAgyejWMAAyqd4.png 下载完成
+

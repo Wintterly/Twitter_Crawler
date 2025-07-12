@@ -1,0 +1,141 @@
+下载日志创建时间: 2025-07-11 00:15:48
+爬取标签: 叶舒华
+--------------------------------------------------
+图片将保存在文件夹: result_叶舒华_20250711_001500/hot_crawler_result
+目标爬取帖子数量: 10
+日志文件: result_叶舒华_20250711_001500/hot_crawler_result/@叶舒华_dianzan_log.txt
+
+开始爬取...
+图片将保存在文件夹: result_叶舒华_20250711_001500/hot_crawler_result
+目标爬取帖子数量: 10
+日志文件: result_叶舒华_20250711_001500/hot_crawler_result/@叶舒华_dianzan_log.txt
+访问推特页面中.....
+准备获取数据中.....
+开始爬取数据...., url为：https://x.com/hashtag/叶舒华?src=hashtag_click
+等待页面加载...
+页面暂时没有新内容，继续尝试...
+页面暂时没有新内容，继续尝试...
+帖子 未知链接 没有图片，跳过
+帖子 未知链接 没有图片，跳过
+帖子 未知链接 没有图片，跳过
+帖子 未知链接 没有图片，跳过
+帖子 未知链接 没有图片，跳过
+帖子 未知链接 没有图片，跳过
+帖子 未知链接 没有图片，跳过
+找到第 1/10 条带图片的帖子
+帖子链接: https://x.com/greendiary_gif/status/1780119986142413271
+发布时间: 2024-04-16T06:24:12.000Z
+找到 2 张图片
+媒体链接: https://pbs.twimg.com/media/GLRBqNTWwAAvAKf?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/GLRBqNLWIAAkF_c?format=png&name=large
+开始下载: https://pbs.twimg.com/media/GLRBqNTWwAAvAKf?format=png&name=large
+开始下载: https://pbs.twimg.com/media/GLRBqNLWIAAkF_c?format=png&name=large
+找到第 2/10 条带图片的帖子
+帖子链接: https://x.com/chapter_ysh/status/1798633241391550924
+发布时间: 2024-06-06T08:29:16.000Z
+找到 2 张图片
+媒体链接: https://pbs.twimg.com/media/GPYHZhBaQAABSwv?format=png&name=large
+开始下载: https://pbs.twimg.com/media/GPYHZhBaQAABSwv?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/GPYHZhBa8AAodav?format=png&name=large
+开始下载: https://pbs.twimg.com/media/GPYHZhBa8AAodav?format=png&name=large
+找到第 3/10 条带图片的帖子
+帖子链接: https://x.com/SweetieCandy106/status/1936765485930131519
+发布时间: 2025-06-22T12:37:29.000Z
+找到 3 张图片
+媒体链接: https://pbs.twimg.com/media/GuDF3bzWwAA1g0K?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/GuDF3bKakAA6LoA?format=png&name=large
+开始下载: https://pbs.twimg.com/media/GuDF3bzWwAA1g0K?format=png&name=large
+开始下载: https://pbs.twimg.com/media/GuDF3bKakAA6LoA?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/GuDF3cqWcAEzZc2?format=png&name=large
+开始下载: https://pbs.twimg.com/media/GuDF3cqWcAEzZc2?format=png&name=large
+帖子 https://x.com/vivianongjy0913/status/1835457566966419561 没有图片，跳过
+找到第 4/10 条带图片的帖子
+帖子链接: https://x.com/chapter_ysh/status/1842184482692247713
+发布时间: 2024-10-04T12:46:21.000Z
+找到 1 张图片
+媒体链接: https://pbs.twimg.com/media/GZDBA6XbIAA839R?format=png&name=large
+开始下载: https://pbs.twimg.com/media/GZDBA6XbIAA839R?format=png&name=large
+找到第 5/10 条带图片的帖子
+帖子链接: https://x.com/SweetieCandy106/status/1931378531667517862
+发布时间: 2025-06-07T15:51:39.000Z
+找到 3 张图片
+媒体链接: https://pbs.twimg.com/media/Gs2igT_akAEYYEK?format=png&name=large
+开始下载: https://pbs.twimg.com/media/Gs2igT_akAEYYEK?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/Gs2igUBbAAA_GEY?format=png&name=large
+开始下载: https://pbs.twimg.com/media/Gs2igUBbAAA_GEY?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/Gs2igUBbYAACW3r?format=png&name=large
+开始下载: https://pbs.twimg.com/media/Gs2igUBbYAACW3r?format=png&name=large
+找到第 6/10 条带图片的帖子
+帖子链接: https://x.com/SweetieCandy106/status/1936376809714782412
+发布时间: 2025-06-21T10:53:02.000Z
+找到 1 张图片
+媒体链接: https://pbs.twimg.com/media/Gt9kcGHWsAAclfA?format=png&name=large
+开始下载: https://pbs.twimg.com/media/Gt9kcGHWsAAclfA?format=png&name=large
+找到第 7/10 条带图片的帖子
+帖子链接: https://x.com/ktx_005/status/1682230349965967360
+发布时间: 2023-07-21T03:25:44.000Z
+找到 2 张图片
+媒体链接: https://pbs.twimg.com/media/F1h7kOhaIAEuiVY?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/F1h7lDhaUAACBE4?format=png&name=large
+开始下载: https://pbs.twimg.com/media/F1h7kOhaIAEuiVY?format=png&name=large
+开始下载: https://pbs.twimg.com/media/F1h7lDhaUAACBE4?format=png&name=large
+找到第 8/10 条带图片的帖子
+帖子链接: https://x.com/theBrightMoon97/status/1641819364935749632
+发布时间: 2023-03-31T15:06:54.000Z
+找到 2 张图片
+媒体链接: https://pbs.twimg.com/media/FsjqADiaMAM5DPv?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/FsjqADhaUAAZ4mM?format=png&name=large
+开始下载: https://pbs.twimg.com/media/FsjqADiaMAM5DPv?format=png&name=large
+开始下载: https://pbs.twimg.com/media/FsjqADhaUAAZ4mM?format=png&name=large
+帖子 https://x.com/vivianongjy0913/status/1835454545788391662 没有图片，跳过
+找到第 9/10 条带图片的帖子
+帖子链接: https://x.com/SweetieCandy106/status/1936765286801432787
+发布时间: 2025-06-22T12:36:42.000Z
+找到 3 张图片
+媒体链接: https://pbs.twimg.com/media/GuDFsUgW8AAjP1f?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/GuDFsUQW8AAuyv7?format=png&name=large
+媒体链接: https://pbs.twimg.com/media/GuDFsUeWQAE5QJy?format=png&name=large
+开始下载: https://pbs.twimg.com/media/GuDFsUgW8AAjP1f?format=png&name=large
+开始下载: https://pbs.twimg.com/media/GuDFsUeWQAE5QJy?format=png&name=large
+开始下载: https://pbs.twimg.com/media/GuDFsUQW8AAuyv7?format=png&name=large
+GLRBqNLWIAAkF_c.png 下载完成
+GLRBqNTWwAAvAKf.png 下载完成
+找到第 10/10 条带图片的帖子
+帖子链接: https://x.com/Warm_Fall_Story/status/1774804601826648529
+发布时间: 2024-04-01T14:22:46.000Z
+找到 1 张图片
+媒体链接: https://pbs.twimg.com/media/GKFfXziaAAASZWa?format=png&name=large
+
+爬取结束，达到目标帖子数量或被手动停止
+开始下载: https://pbs.twimg.com/media/GKFfXziaAAASZWa?format=png&name=large
+
+等待所有图片下载完成...
+GPYHZhBa8AAodav.png 下载完成
+FsjqADiaMAM5DPv.png 下载完成
+GZDBA6XbIAA839R.png 下载完成
+GuDF3bzWwAA1g0K.png 下载完成
+GuDF3cqWcAEzZc2.png 下载完成
+GKFfXziaAAASZWa.png 下载完成
+GPYHZhBaQAABSwv.png 下载完成
+GuDF3bKakAA6LoA.png 下载完成
+FsjqADhaUAAZ4mM.png 下载完成
+GuDFsUQW8AAuyv7.png 下载完成
+GuDFsUgW8AAjP1f.png 下载完成
+F1h7lDhaUAACBE4.png 下载完成
+F1h7kOhaIAEuiVY.png 下载完成
+Gs2igUBbYAACW3r.png 下载完成
+Gs2igUBbAAA_GEY.png 下载完成
+Gt9kcGHWsAAclfA.png 下载完成
+GuDFsUeWQAE5QJy.png 下载完成
+Gs2igT_akAEYYEK.png 下载完成
+
+所有图片下载完成！
+
+--------------------------------------------------
+爬取完成时间: 2025-07-11 00:16:58
+共找到 10 条带图片的帖子
+共下载了 20 张图片
+
+共找到 10 条带图片的帖子
+共下载了 20 张图片
+程序已安全退出。

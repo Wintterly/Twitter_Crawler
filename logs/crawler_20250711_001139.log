@@ -1,0 +1,563 @@
+2025-07-11 00:11:39,005 - INFO - 日志系统初始化完成
+2025-07-11 00:11:39,006 - INFO - 已加载最新配置文件
+2025-07-11 00:11:42,645 - INFO - 配置已成功保存到config.py文件！
+2025-07-11 00:11:44,718 - INFO - 已重新加载最新配置文件和相关模块
+2025-07-11 00:11:44,737 - INFO - 创建结果文件夹: result_宋雨琦_20250711_001144
+2025-07-11 00:11:44,738 - INFO - 开始执行全部爬取模式...
+2025-07-11 00:11:44,739 - INFO - 开始运行Twitter爬虫...
+2025-07-11 00:11:44,739 - INFO - 将爬取 2025-07-01 到 2025-07-05 之间的帖子
+2025-07-11 00:11:54,532 - INFO - 设置cookie中.....
+2025-07-11 00:11:54,547 - INFO - Cookie设置完成
+2025-07-11 00:11:54,547 - INFO - 访问推特页面中.....
+2025-07-11 00:11:55,390 - INFO - 准备获取数据中.....
+2025-07-11 00:11:56,396 - INFO - 开始爬取数据...., url为：https://x.com/search?q=宋雨琦&src=typed_query&f=live
+2025-07-11 00:11:56,396 - INFO - 重置浏览器状态...
+2025-07-11 00:11:59,124 - INFO - 浏览器状态已重置
+2025-07-11 00:11:59,125 - INFO - 等待页面加载...
+2025-07-11 00:11:59,125 - INFO - 正在等待页面元素加载，最长等待时间为60秒...
+2025-07-11 00:12:17,027 - INFO - 找到 5 个帖子元素
+2025-07-11 00:12:17,054 - INFO - 跳过时间范围外的帖子：https://x.com/YUNOOMM/status/1943333436468477998
+2025-07-11 00:12:17,056 - INFO - 帖子时间：2025-07-10T15:36:11.000Z
+2025-07-11 00:12:17,065 - INFO - 跳过时间范围外的帖子：https://x.com/shumce1/status/1943289205624357096
+2025-07-11 00:12:17,066 - INFO - 帖子时间：2025-07-10T12:40:25.000Z
+2025-07-11 00:12:17,074 - INFO - 跳过时间范围外的帖子：https://x.com/iateabatterysel/status/1943147131864281476
+2025-07-11 00:12:17,075 - INFO - 帖子时间：2025-07-10T03:15:52.000Z
+2025-07-11 00:12:17,081 - INFO - 跳过时间范围外的帖子：https://x.com/shumce1/status/1943008501074391507
+2025-07-11 00:12:17,083 - INFO - 帖子时间：2025-07-09T18:05:00.000Z
+2025-07-11 00:12:17,090 - INFO - 跳过时间范围外的帖子：https://x.com/wewe6868/status/1942932093614588195
+2025-07-11 00:12:17,093 - INFO - 帖子时间：2025-07-09T13:01:23.000Z
+2025-07-11 00:12:20,117 - INFO - 跳过时间范围外的帖子：https://x.com/yuqi_nan9399/status/1942194354204119127
+2025-07-11 00:12:20,119 - INFO - 帖子时间：2025-07-07T12:09:52.000Z
+2025-07-11 00:12:20,125 - INFO - 跳过时间范围外的帖子：https://x.com/jh_jkna/status/1941859484928012425
+2025-07-11 00:12:20,127 - INFO - 帖子时间：2025-07-06T13:59:13.000Z
+2025-07-11 00:12:20,138 - INFO - 跳过时间范围外的帖子：https://x.com/shumce1/status/1941836735761281258
+2025-07-11 00:12:20,139 - INFO - 帖子时间：2025-07-06T12:28:50.000Z
+2025-07-11 00:12:20,146 - INFO - 跳过时间范围外的帖子：https://x.com/jigumiyawaki/status/1941831410853290191
+2025-07-11 00:12:20,147 - INFO - 帖子时间：2025-07-06T12:07:40.000Z
+2025-07-11 00:12:20,154 - INFO - 跳过时间范围外的帖子：https://x.com/mnyjsk10/status/1941810546116051225
+2025-07-11 00:12:20,155 - INFO - 帖子时间：2025-07-06T10:44:45.000Z
+2025-07-11 00:12:20,161 - INFO - 跳过时间范围外的帖子：https://x.com/shumce1/status/1941742704410624484
+2025-07-11 00:12:20,162 - INFO - 帖子时间：2025-07-06T06:15:11.000Z
+2025-07-11 00:12:20,169 - INFO - 跳过时间范围外的帖子：https://x.com/oldmoney78/status/1941664127426166967
+2025-07-11 00:12:20,170 - INFO - 帖子时间：2025-07-06T01:02:57.000Z
+2025-07-11 00:12:20,176 - INFO - 跳过时间范围外的帖子：https://x.com/oldmoney78/status/1941652685230571863
+2025-07-11 00:12:20,176 - INFO - 帖子时间：2025-07-06T00:17:28.000Z
+2025-07-11 00:12:20,215 - INFO - 当前帖子的url为：https://x.com/oldmoney78/status/1941639373759697138
+2025-07-11 00:12:20,219 - INFO - 时间为：2025-07-05T23:24:35.000Z，找到1张图片
+2025-07-11 00:12:20,229 - INFO - 当前帖子的url为：https://x.com/zhioychina/status/1941565592529740072
+2025-07-11 00:12:20,230 - INFO - 时间为：2025-07-05T18:31:24.000Z，找到7张图片
+2025-07-11 00:12:20,234 - INFO - 媒体链接: https://pbs.twimg.com/media/GvHTnClaAAE1CRT?format=png&name=large
+2025-07-11 00:12:20,236 - INFO - 媒体链接: https://pbs.twimg.com/media/GvHTnCnbQAAZg85?format=png&name=large
+2025-07-11 00:12:20,237 - INFO - 媒体链接: https://pbs.twimg.com/media/GvHTnDZWwAACOd4?format=png&name=large
+2025-07-11 00:12:20,239 - INFO - 媒体链接: https://pbs.twimg.com/media/GvHTnDbWsAAuJX2?format=png&name=large
+2025-07-11 00:12:20,248 - INFO - 当前帖子的url为：https://x.com/Karin_Aizen/status/1941536233106309193
+2025-07-11 00:12:20,250 - INFO - 时间为：2025-07-05T16:34:44.000Z，找到4张图片
+2025-07-11 00:12:20,262 - INFO - 当前帖子的url为：https://x.com/oldmoney78/status/1941532337570972062
+2025-07-11 00:12:20,264 - INFO - 时间为：2025-07-05T16:19:15.000Z，找到1张图片
+2025-07-11 00:12:20,273 - INFO - 当前帖子的url为：https://x.com/oldmoney78/status/1941517617988284884
+2025-07-11 00:12:20,274 - INFO - 时间为：2025-07-05T15:20:46.000Z，找到1张图片
+2025-07-11 00:12:20,284 - INFO - 当前帖子的url为：https://x.com/armstrong0730/status/1941475773057274007
+2025-07-11 00:12:20,286 - INFO - 时间为：2025-07-05T12:34:29.000Z，找到8张图片
+2025-07-11 00:12:23,323 - INFO - 当前帖子的url为：https://x.com/oldmoney78/status/1941377972033974447
+2025-07-11 00:12:23,325 - INFO - 时间为：2025-07-05T06:05:52.000Z，找到1张图片
+2025-07-11 00:12:23,336 - INFO - 当前帖子的url为：https://x.com/oldmoney78/status/1941374857419293057
+2025-07-11 00:12:23,337 - INFO - 时间为：2025-07-05T05:53:29.000Z，找到1张图片
+2025-07-11 00:12:23,347 - INFO - 当前帖子的url为：https://x.com/oldmoney78/status/1941372766189699493
+2025-07-11 00:12:23,348 - INFO - 时间为：2025-07-05T05:45:11.000Z，找到1张图片
+2025-07-11 00:12:23,360 - INFO - 当前帖子的url为：https://x.com/pZNlowLypJaXq49/status/1941357147843080675
+2025-07-11 00:12:23,361 - INFO - 时间为：2025-07-05T04:43:07.000Z，找到2张图片
+2025-07-11 00:12:23,363 - INFO - 媒体链接: https://pbs.twimg.com/media/GvEWB9aXwAA_GOe?format=png&name=large
+2025-07-11 00:12:23,372 - INFO - 当前帖子的url为：https://x.com/oldmoney78/status/1941343261546906021
+2025-07-11 00:12:23,373 - INFO - 时间为：2025-07-05T03:47:56.000Z，找到1张图片
+2025-07-11 00:12:23,382 - INFO - 当前帖子的url为：https://x.com/shumce1/status/1941305306946076971
+2025-07-11 00:12:23,383 - INFO - 时间为：2025-07-05T01:17:07.000Z，找到3张图片
+2025-07-11 00:12:23,387 - INFO - 媒体链接: https://pbs.twimg.com/media/GvDm4h2WAAAcrhy?format=png&name=large
+2025-07-11 00:12:23,389 - INFO - 媒体链接: https://pbs.twimg.com/media/GvDm4jgXsAAZR76?format=png&name=large
+2025-07-11 00:12:23,399 - INFO - 当前帖子的url为：https://x.com/shumce1/status/1941304630790717582
+2025-07-11 00:12:23,400 - INFO - 时间为：2025-07-05T01:14:26.000Z，找到2张图片
+2025-07-11 00:12:23,411 - INFO - 当前帖子的url为：https://x.com/lovesoftmusic/status/1941300115303772405
+2025-07-11 00:12:23,413 - INFO - 时间为：2025-07-05T00:56:29.000Z，找到7张图片
+2025-07-11 00:12:23,436 - INFO - 当前帖子的url为：https://x.com/kissme_catt/status/1941152296097968398
+2025-07-11 00:12:23,449 - INFO - 时间为：2025-07-04T15:09:06.000Z，找到1张图片
+2025-07-11 00:12:23,477 - INFO - 当前帖子的url为：https://x.com/choonlong6/status/1941116172709363726
+2025-07-11 00:12:23,478 - INFO - 时间为：2025-07-04T12:45:34.000Z，找到1张图片
+2025-07-11 00:12:23,488 - INFO - 当前帖子的url为：https://x.com/yuqi_nan9399/status/1941113267398807814
+2025-07-11 00:12:23,491 - INFO - 时间为：2025-07-04T12:34:01.000Z，找到2张图片
+2025-07-11 00:12:23,501 - INFO - 当前帖子的url为：https://x.com/shumce1/status/1941087514816917512
+2025-07-11 00:12:23,504 - INFO - 时间为：2025-07-04T10:51:41.000Z，找到3张图片
+2025-07-11 00:12:23,507 - INFO - 媒体链接: https://pbs.twimg.com/media/GvAgydgbcAA0VuJ?format=png&name=large
+2025-07-11 00:12:23,509 - INFO - 媒体链接: https://pbs.twimg.com/media/GvAgyejWMAAyqd4?format=png&name=large
+2025-07-11 00:12:23,520 - INFO - 当前帖子的url为：https://x.com/YUNOOMM/status/1941083091860373820
+2025-07-11 00:12:23,522 - INFO - 时间为：2025-07-04T10:34:07.000Z，找到2张图片
+2025-07-11 00:12:24,139 - INFO - 帖子链接https://x.com/zhioychina/status/1941565592529740072
+2025-07-11 00:12:24,140 - INFO - 帖子链接https://x.com/zhioychina/status/1941565592529740072
+2025-07-11 00:12:24,141 - INFO - 帖子链接https://x.com/zhioychina/status/1941565592529740072
+2025-07-11 00:12:24,141 - INFO - 帖子链接https://x.com/zhioychina/status/1941565592529740072
+2025-07-11 00:12:24,141 - INFO - 帖子链接https://x.com/pZNlowLypJaXq49/status/1941357147843080675
+2025-07-11 00:12:24,141 - INFO - 开始下载https://pbs.twimg.com/media/GvHTnClaAAE1CRT?format=png&name=large
+2025-07-11 00:12:24,141 - INFO - 开始下载https://pbs.twimg.com/media/GvHTnDZWwAACOd4?format=png&name=large
+2025-07-11 00:12:24,142 - INFO - 开始下载https://pbs.twimg.com/media/GvHTnDbWsAAuJX2?format=png&name=large
+2025-07-11 00:12:24,142 - INFO - 帖子链接https://x.com/shumce1/status/1941305306946076971
+2025-07-11 00:12:24,142 - INFO - 开始下载https://pbs.twimg.com/media/GvDm4h2WAAAcrhy?format=png&name=large
+2025-07-11 00:12:24,142 - INFO - 开始下载https://pbs.twimg.com/media/GvEWB9aXwAA_GOe?format=png&name=large
+2025-07-11 00:12:24,142 - INFO - 开始下载https://pbs.twimg.com/media/GvHTnCnbQAAZg85?format=png&name=large
+2025-07-11 00:12:26,554 - INFO - 当前帖子的url为：https://x.com/shumce1/status/1940666109268840834
+2025-07-11 00:12:26,556 - INFO - 时间为：2025-07-03T06:57:10.000Z，找到2张图片
+2025-07-11 00:12:26,570 - INFO - 当前帖子的url为：https://x.com/shumce1/status/1940660866439107017
+2025-07-11 00:12:26,572 - INFO - 时间为：2025-07-03T06:36:20.000Z，找到3张图片
+2025-07-11 00:12:26,575 - INFO - 媒体链接: https://pbs.twimg.com/media/Gu6cvmyWkAAxoR7?format=png&name=large
+2025-07-11 00:12:26,576 - INFO - 媒体链接: https://pbs.twimg.com/media/Gu6cvnZWUAAzrPm?format=png&name=large
+2025-07-11 00:12:26,586 - INFO - 当前帖子的url为：https://x.com/lovesoftmusic/status/1940595493912166445
+2025-07-11 00:12:26,587 - INFO - 时间为：2025-07-03T02:16:34.000Z，找到4张图片
+2025-07-11 00:12:26,597 - INFO - GvDm4h2WAAAcrhy.png 下载完成
+2025-07-11 00:12:26,601 - INFO - 当前帖子的url为：https://x.com/markVIIseventh/status/1940454374339498306
+2025-07-11 00:12:26,603 - INFO - 时间为：2025-07-02T16:55:49.000Z，找到1张图片
+2025-07-11 00:12:26,612 - INFO - 当前帖子的url为：https://x.com/kikikik04864662/status/1940448919940714510
+2025-07-11 00:12:26,613 - INFO - 时间为：2025-07-02T16:34:08.000Z，找到3张图片
+2025-07-11 00:12:26,615 - INFO - 媒体链接: https://pbs.twimg.com/media/Gu3cAViWQAcmuPM?format=png&name=large
+2025-07-11 00:12:26,617 - INFO - 媒体链接: https://pbs.twimg.com/media/Gu3cAVmWQAkeEhK?format=png&name=large
+2025-07-11 00:12:26,627 - INFO - 当前帖子的url为：https://x.com/shumce1/status/1940418558296776844
+2025-07-11 00:12:26,628 - INFO - 时间为：2025-07-02T14:33:30.000Z，找到4张图片
+2025-07-11 00:12:26,642 - INFO - 当前帖子的url为：https://x.com/shumce1/status/1940400748359188768
+2025-07-11 00:12:26,644 - INFO - 时间为：2025-07-02T13:22:43.000Z，找到2张图片
+2025-07-11 00:12:26,655 - INFO - 当前帖子的url为：https://x.com/YUNOOMM/status/1940378832919494672
+2025-07-11 00:12:26,656 - INFO - 时间为：2025-07-02T11:55:38.000Z，找到2张图片
+2025-07-11 00:12:26,658 - INFO - 媒体链接: https://pbs.twimg.com/media/Gu2cQW7XQAAl4RG?format=png&name=large
+2025-07-11 00:12:26,667 - INFO - 当前帖子的url为：https://x.com/YUNOOMM/status/1940348616641827267
+2025-07-11 00:12:26,670 - INFO - 时间为：2025-07-02T09:55:34.000Z，找到2张图片
+2025-07-11 00:12:26,671 - INFO - 媒体链接: https://pbs.twimg.com/media/Gu2AtR0XYAAm1cd?format=png&name=large
+2025-07-11 00:12:26,680 - INFO - 当前帖子的url为：https://x.com/Ale_NSSJ/status/1940250117187280998
+2025-07-11 00:12:26,681 - INFO - 时间为：2025-07-02T03:24:10.000Z，找到9张图片
+2025-07-11 00:12:26,689 - INFO - 媒体链接: https://pbs.twimg.com/media/Gus2EDdaYAAL52c?format=png&name=large
+2025-07-11 00:12:26,691 - INFO - 媒体链接: https://pbs.twimg.com/media/Gus2ElnakAAls4n?format=png&name=large
+2025-07-11 00:12:26,692 - INFO - 媒体链接: https://pbs.twimg.com/media/Gus2FFSaAAAyg2l?format=png&name=large
+2025-07-11 00:12:26,695 - INFO - 媒体链接: https://pbs.twimg.com/media/Gus2FqXa0AAtO4m?format=png&name=large
+2025-07-11 00:12:27,168 - INFO - 帖子链接https://x.com/shumce1/status/1941305306946076971
+2025-07-11 00:12:27,170 - INFO - 开始下载https://pbs.twimg.com/media/GvDm4jgXsAAZR76?format=png&name=large
+2025-07-11 00:12:27,787 - INFO - GvEWB9aXwAA_GOe.png 下载完成
+2025-07-11 00:12:27,898 - INFO - GvHTnDbWsAAuJX2.png 下载完成
+2025-07-11 00:12:28,166 - INFO - GvHTnDZWwAACOd4.png 下载完成
+2025-07-11 00:12:28,684 - INFO - 帖子链接https://x.com/shumce1/status/1941087514816917512
+2025-07-11 00:12:28,684 - INFO - 帖子链接https://x.com/shumce1/status/1941087514816917512
+2025-07-11 00:12:28,688 - INFO - 帖子链接https://x.com/shumce1/status/1940660866439107017
+2025-07-11 00:12:28,688 - INFO - 开始下载https://pbs.twimg.com/media/GvAgydgbcAA0VuJ?format=png&name=large
+2025-07-11 00:12:28,688 - INFO - 开始下载https://pbs.twimg.com/media/Gu6cvmyWkAAxoR7?format=png&name=large
+2025-07-11 00:12:28,690 - INFO - 开始下载https://pbs.twimg.com/media/GvAgyejWMAAyqd4?format=png&name=large
+2025-07-11 00:12:28,767 - INFO - GvHTnClaAAE1CRT.png 下载完成
+2025-07-11 00:12:29,612 - INFO - GvHTnCnbQAAZg85.png 下载完成
+2025-07-11 00:12:29,694 - INFO - 帖子链接https://x.com/shumce1/status/1940660866439107017
+2025-07-11 00:12:29,699 - INFO - 开始下载https://pbs.twimg.com/media/Gu6cvnZWUAAzrPm?format=png&name=large
+2025-07-11 00:12:29,731 - INFO - 获取到帖子时间为2025-06-30T12:50:15.000Z，已经超出start_time，停止获取新帖子
+2025-07-11 00:12:29,733 - INFO - ==============================下载线程继续运行==============================
+2025-07-11 00:12:30,200 - INFO - 帖子链接https://x.com/kikikik04864662/status/1940448919940714510
+2025-07-11 00:12:30,211 - INFO - 开始下载https://pbs.twimg.com/media/Gu3cAViWQAcmuPM?format=png&name=large
+2025-07-11 00:12:30,802 - INFO - GvDm4jgXsAAZR76.png 下载完成
+2025-07-11 00:12:31,709 - INFO - 帖子链接https://x.com/kikikik04864662/status/1940448919940714510
+2025-07-11 00:12:31,713 - INFO - 开始下载https://pbs.twimg.com/media/Gu3cAVmWQAkeEhK?format=png&name=large
+2025-07-11 00:12:35,193 - INFO - Gu6cvmyWkAAxoR7.png 下载完成
+2025-07-11 00:12:35,730 - INFO - 帖子链接https://x.com/YUNOOMM/status/1940378832919494672
+2025-07-11 00:12:35,737 - INFO - 开始下载https://pbs.twimg.com/media/Gu2cQW7XQAAl4RG?format=png&name=large
+2025-07-11 00:12:37,313 - INFO - Gu3cAViWQAcmuPM.png 下载完成
+2025-07-11 00:12:37,322 - INFO - GvAgydgbcAA0VuJ.png 下载完成
+2025-07-11 00:12:37,715 - INFO - Gu3cAVmWQAkeEhK.png 下载完成
+2025-07-11 00:12:38,248 - INFO - 帖子链接https://x.com/YUNOOMM/status/1940348616641827267
+2025-07-11 00:12:38,249 - INFO - 帖子链接https://x.com/Ale_NSSJ/status/1940250117187280998
+2025-07-11 00:12:38,254 - INFO - 帖子链接https://x.com/Ale_NSSJ/status/1940250117187280998
+2025-07-11 00:12:38,255 - INFO - 开始下载https://pbs.twimg.com/media/Gu2AtR0XYAAm1cd?format=png&name=large
+2025-07-11 00:12:38,256 - INFO - 开始下载https://pbs.twimg.com/media/Gus2EDdaYAAL52c?format=png&name=large
+2025-07-11 00:12:38,256 - INFO - 开始下载https://pbs.twimg.com/media/Gus2ElnakAAls4n?format=png&name=large
+2025-07-11 00:12:41,101 - INFO - Gu2cQW7XQAAl4RG.png 下载完成
+2025-07-11 00:12:41,770 - INFO - 帖子链接https://x.com/Ale_NSSJ/status/1940250117187280998
+2025-07-11 00:12:41,774 - INFO - 开始下载https://pbs.twimg.com/media/Gus2FFSaAAAyg2l?format=png&name=large
+2025-07-11 00:12:44,230 - INFO - Gu6cvnZWUAAzrPm.png 下载完成
+2025-07-11 00:12:44,791 - INFO - 收到结束信号，结束下载线程
+2025-07-11 00:12:44,792 - INFO - 帖子链接https://x.com/Ale_NSSJ/status/1940250117187280998
+2025-07-11 00:12:44,800 - INFO - 开始下载https://pbs.twimg.com/media/Gus2FqXa0AAtO4m?format=png&name=large
+2025-07-11 00:12:45,306 - INFO - Gus2EDdaYAAL52c.png 下载完成
+2025-07-11 00:12:48,319 - INFO - Gu2AtR0XYAAm1cd.png 下载完成
+2025-07-11 00:12:48,605 - INFO - Gus2ElnakAAls4n.png 下载完成
+2025-07-11 00:12:50,222 - INFO - Gus2FqXa0AAtO4m.png 下载完成
+2025-07-11 00:12:51,958 - INFO - Gus2FFSaAAAyg2l.png 下载完成
+2025-07-11 00:12:52,461 - INFO - 正在从日志中提取媒体链接...
+2025-07-11 00:12:52,466 - INFO - 日志文件 download_log.txt 不存在
+2025-07-11 00:12:52,467 - INFO - 未找到媒体链接或保存失败
+2025-07-11 00:12:52,467 - INFO - 所有下载任务已完成
+2025-07-11 00:12:52,468 - INFO - 共下载 18 张图片
+2025-07-11 00:12:52,469 - INFO - 程序已安全退出。
+2025-07-11 00:12:52,469 - INFO - Twitter爬虫结果已保存到: result_宋雨琦_20250711_001144/time_crawler_result
+2025-07-11 00:12:52,469 - INFO - 正在从日志文件中提取媒体链接...
+2025-07-11 00:12:52,470 - INFO - 文件检查统计: 找到 18 个文件, 丢失 1 个文件
+2025-07-11 00:12:52,471 - INFO - 已将 19 个媒体链接及其文件状态保存到 result_宋雨琦_20250711_001144/time_crawler_result/image.txt
+2025-07-11 00:12:52,820 - INFO - 浏览器正在关闭...
+2025-07-11 00:12:52,905 - INFO - GvAgyejWMAAyqd4.png 下载完成
+2025-07-11 00:12:53,831 - INFO - 浏览器已成功关闭
+2025-07-11 00:12:53,832 - INFO - 开始运行根据热度（点赞数）爬取图片...
+2025-07-11 00:12:53,843 - INFO - 图片将保存在文件夹: result_宋雨琦_20250711_001144/hot_crawler_result
+2025-07-11 00:12:53,844 - INFO - 目标爬取帖子数量: 10
+2025-07-11 00:12:53,846 - INFO - 日志文件: result_宋雨琦_20250711_001144/hot_crawler_result/@宋雨琦_dianzan_log.txt
+2025-07-11 00:12:58,724 - INFO - 设置cookie中.....
+2025-07-11 00:12:58,782 - INFO - Cookie设置完成
+2025-07-11 00:12:58,782 - INFO - 访问推特页面中.....
+2025-07-11 00:12:59,661 - INFO - 准备获取数据中.....
+2025-07-11 00:13:00,668 - INFO - 开始爬取数据...., url为：https://x.com/hashtag/宋雨琦?src=hashtag_click
+2025-07-11 00:13:00,673 - INFO - 等待页面加载...
+2025-07-11 00:13:08,734 - INFO - 页面暂时没有新内容，继续尝试...
+2025-07-11 00:13:19,830 - INFO - 帖子 未知链接 没有图片，跳过
+2025-07-11 00:13:19,836 - INFO - 帖子 未知链接 没有图片，跳过
+2025-07-11 00:13:19,843 - INFO - 帖子 未知链接 没有图片，跳过
+2025-07-11 00:13:19,853 - INFO - 帖子 未知链接 没有图片，跳过
+2025-07-11 00:13:19,863 - INFO - 帖子 未知链接 没有图片，跳过
+2025-07-11 00:13:19,870 - INFO - 帖子 未知链接 没有图片，跳过
+2025-07-11 00:13:19,875 - INFO - 帖子 未知链接 没有图片，跳过
+2025-07-11 00:13:19,892 - INFO - 找到第 1/10 条带图片的帖子
+2025-07-11 00:13:19,894 - INFO - 帖子链接: https://x.com/CheesePumpkinYQ/status/1942949638157517056
+2025-07-11 00:13:19,894 - INFO - 发布时间: 2025-07-09T14:11:06.000Z
+2025-07-11 00:13:19,894 - INFO - 找到 3 张图片
+2025-07-11 00:13:19,894 - INFO - 媒体链接: https://pbs.twimg.com/media/Gva-ZAcWQAAwNpv?format=png&name=large
+2025-07-11 00:13:19,894 - INFO - 媒体链接: https://pbs.twimg.com/media/Gva-ZAYWsAAjNnu?format=png&name=large
+2025-07-11 00:13:19,895 - INFO - 开始下载: https://pbs.twimg.com/media/Gva-ZAcWQAAwNpv?format=png&name=large
+2025-07-11 00:13:19,895 - INFO - 媒体链接: https://pbs.twimg.com/media/Gva-Y_qbsAAKMdJ?format=png&name=large
+2025-07-11 00:13:19,895 - INFO - 开始下载: https://pbs.twimg.com/media/Gva-ZAYWsAAjNnu?format=png&name=large
+2025-07-11 00:13:19,895 - INFO - 开始下载: https://pbs.twimg.com/media/Gva-Y_qbsAAKMdJ?format=png&name=large
+2025-07-11 00:13:19,912 - INFO - 找到第 2/10 条带图片的帖子
+2025-07-11 00:13:19,914 - INFO - 帖子链接: https://x.com/babymeong2121/status/1943152695432613974
+2025-07-11 00:13:19,914 - INFO - 发布时间: 2025-07-10T03:37:59.000Z
+2025-07-11 00:13:19,914 - INFO - 找到 1 张图片
+2025-07-11 00:13:19,914 - INFO - 媒体链接: https://pbs.twimg.com/media/Gvd3EgTakAAALwE?format=png&name=large
+2025-07-11 00:13:19,915 - INFO - 开始下载: https://pbs.twimg.com/media/Gvd3EgTakAAALwE?format=png&name=large
+2025-07-11 00:13:19,926 - INFO - 找到第 3/10 条带图片的帖子
+2025-07-11 00:13:19,928 - INFO - 帖子链接: https://x.com/wizinith/status/1943141633534628346
+2025-07-11 00:13:19,928 - INFO - 发布时间: 2025-07-10T02:54:01.000Z
+2025-07-11 00:13:19,928 - INFO - 找到 1 张图片
+2025-07-11 00:13:19,928 - INFO - 媒体链接: https://pbs.twimg.com/media/GvdtAsBakAAGulL?format=png&name=large
+2025-07-11 00:13:19,928 - INFO - 开始下载: https://pbs.twimg.com/media/GvdtAsBakAAGulL?format=png&name=large
+2025-07-11 00:13:19,943 - INFO - 找到第 4/10 条带图片的帖子
+2025-07-11 00:13:19,945 - INFO - 帖子链接: https://x.com/yuqimoring23/status/1942948205907570914
+2025-07-11 00:13:19,945 - INFO - 发布时间: 2025-07-09T14:05:25.000Z
+2025-07-11 00:13:19,945 - INFO - 找到 1 张图片
+2025-07-11 00:13:19,945 - INFO - 媒体链接: https://pbs.twimg.com/media/Gva9F0YW8AA3i8X?format=png&name=large
+2025-07-11 00:13:19,946 - INFO - 开始下载: https://pbs.twimg.com/media/Gva9F0YW8AA3i8X?format=png&name=large
+2025-07-11 00:13:23,001 - INFO - 找到第 5/10 条带图片的帖子
+2025-07-11 00:13:23,004 - INFO - 帖子链接: https://x.com/himypuppy_0923/status/1941808443792171352
+2025-07-11 00:13:23,004 - INFO - 发布时间: 2025-07-06T10:36:24.000Z
+2025-07-11 00:13:23,004 - INFO - 找到 4 张图片
+2025-07-11 00:13:23,005 - INFO - 媒体链接: https://pbs.twimg.com/media/GvKweXdWUAAhhc0?format=png&name=large
+2025-07-11 00:13:23,005 - INFO - 媒体链接: https://pbs.twimg.com/media/GvKweXfXgAAZP0O?format=png&name=large
+2025-07-11 00:13:23,006 - INFO - 开始下载: https://pbs.twimg.com/media/GvKweXdWUAAhhc0?format=png&name=large
+2025-07-11 00:13:23,006 - INFO - 开始下载: https://pbs.twimg.com/media/GvKweXfXgAAZP0O?format=png&name=large
+2025-07-11 00:13:23,006 - INFO - 媒体链接: https://pbs.twimg.com/media/GvKweXdXAAE5-Me?format=png&name=large
+2025-07-11 00:13:23,007 - INFO - 媒体链接: https://pbs.twimg.com/media/GvKweXcXQAA_6oV?format=png&name=large
+2025-07-11 00:13:23,007 - INFO - 开始下载: https://pbs.twimg.com/media/GvKweXdXAAE5-Me?format=png&name=large
+2025-07-11 00:13:23,008 - INFO - 开始下载: https://pbs.twimg.com/media/GvKweXcXQAA_6oV?format=png&name=large
+2025-07-11 00:13:23,023 - INFO - 找到第 6/10 条带图片的帖子
+2025-07-11 00:13:23,025 - INFO - 帖子链接: https://x.com/himypuppy_0923/status/1941389017075024285
+2025-07-11 00:13:23,025 - INFO - 发布时间: 2025-07-05T06:49:45.000Z
+2025-07-11 00:13:23,025 - INFO - 找到 4 张图片
+2025-07-11 00:13:23,026 - INFO - 媒体链接: https://pbs.twimg.com/media/GvEy-lnXMAASuJC?format=png&name=large
+2025-07-11 00:13:23,026 - INFO - 媒体链接: https://pbs.twimg.com/media/GvEy-lmXsAAzDKm?format=png&name=large
+2025-07-11 00:13:23,026 - INFO - 开始下载: https://pbs.twimg.com/media/GvEy-lnXMAASuJC?format=png&name=large
+2025-07-11 00:13:23,026 - INFO - 开始下载: https://pbs.twimg.com/media/GvEy-lmXsAAzDKm?format=png&name=large
+2025-07-11 00:13:23,027 - INFO - 媒体链接: https://pbs.twimg.com/media/GvEy-lrXMAAbth-?format=png&name=large
+2025-07-11 00:13:23,027 - INFO - 媒体链接: https://pbs.twimg.com/media/GvEy-loWkAAF44y?format=png&name=large
+2025-07-11 00:13:23,028 - INFO - 开始下载: https://pbs.twimg.com/media/GvEy-lrXMAAbth-?format=png&name=large
+2025-07-11 00:13:23,028 - INFO - 开始下载: https://pbs.twimg.com/media/GvEy-loWkAAF44y?format=png&name=large
+2025-07-11 00:13:23,045 - INFO - 找到第 7/10 条带图片的帖子
+2025-07-11 00:13:23,047 - INFO - 帖子链接: https://x.com/yuqimoring23/status/1941842934061789429
+2025-07-11 00:13:23,047 - INFO - 发布时间: 2025-07-06T12:53:27.000Z
+2025-07-11 00:13:23,047 - INFO - 找到 4 张图片
+2025-07-11 00:13:23,047 - INFO - 媒体链接: https://pbs.twimg.com/media/GvLP2r-WUAAy0ge?format=png&name=large
+2025-07-11 00:13:23,048 - INFO - 媒体链接: https://pbs.twimg.com/media/GvLP2r-XsAAO0u9?format=png&name=large
+2025-07-11 00:13:23,048 - INFO - 开始下载: https://pbs.twimg.com/media/GvLP2r-WUAAy0ge?format=png&name=large
+2025-07-11 00:13:23,048 - INFO - 媒体链接: https://pbs.twimg.com/media/GvLP2rZaYAAh5Fj?format=png&name=large
+2025-07-11 00:13:23,049 - INFO - 开始下载: https://pbs.twimg.com/media/GvLP2r-XsAAO0u9?format=png&name=large
+2025-07-11 00:13:23,049 - INFO - 开始下载: https://pbs.twimg.com/media/GvLP2rZaYAAh5Fj?format=png&name=large
+2025-07-11 00:13:23,049 - INFO - 媒体链接: https://pbs.twimg.com/media/GvLP2rabYAAC_Ca?format=png&name=large
+2025-07-11 00:13:23,049 - INFO - 开始下载: https://pbs.twimg.com/media/GvLP2rabYAAC_Ca?format=png&name=large
+2025-07-11 00:13:23,060 - INFO - 找到第 8/10 条带图片的帖子
+2025-07-11 00:13:23,061 - INFO - 帖子链接: https://x.com/wizinith/status/1942259784935502328
+2025-07-11 00:13:23,061 - INFO - 发布时间: 2025-07-07T16:29:52.000Z
+2025-07-11 00:13:23,062 - INFO - 找到 2 张图片
+2025-07-11 00:13:23,062 - INFO - 媒体链接: https://pbs.twimg.com/media/GvRFMqnWMAAUWiK?format=png&name=large
+2025-07-11 00:13:23,062 - INFO - 媒体链接: https://pbs.twimg.com/media/GvRFMp_a0AEM0H8?format=png&name=large
+2025-07-11 00:13:23,062 - INFO - 开始下载: https://pbs.twimg.com/media/GvRFMqnWMAAUWiK?format=png&name=large
+2025-07-11 00:13:23,062 - INFO - 开始下载: https://pbs.twimg.com/media/GvRFMp_a0AEM0H8?format=png&name=large
+2025-07-11 00:13:23,073 - INFO - 找到第 9/10 条带图片的帖子
+2025-07-11 00:13:23,074 - INFO - 帖子链接: https://x.com/shine_yq/status/1941389574342836237
+2025-07-11 00:13:23,074 - INFO - 发布时间: 2025-07-05T06:51:58.000Z
+2025-07-11 00:13:23,074 - INFO - 找到 1 张图片
+2025-07-11 00:13:23,074 - INFO - 媒体链接: https://pbs.twimg.com/media/GvEzghvXUAA-5vT?format=png&name=large
+2025-07-11 00:13:23,074 - INFO - 开始下载: https://pbs.twimg.com/media/GvEzghvXUAA-5vT?format=png&name=large
+2025-07-11 00:13:23,108 - INFO - 找到第 10/10 条带图片的帖子
+2025-07-11 00:13:23,110 - INFO - 帖子链接: https://x.com/yq527wugi/status/1943141865962029143
+2025-07-11 00:13:23,110 - INFO - 发布时间: 2025-07-10T02:54:57.000Z
+2025-07-11 00:13:23,110 - INFO - 找到 2 张图片
+2025-07-11 00:13:23,110 - INFO - 媒体链接: https://pbs.twimg.com/media/GvdtOXzWAAEzGBj?format=png&name=large
+2025-07-11 00:13:23,110 - INFO - 媒体链接: https://pbs.twimg.com/media/GvdtOoZakAIUUBF?format=png&name=large
+2025-07-11 00:13:23,110 - INFO - 开始下载: https://pbs.twimg.com/media/GvdtOXzWAAEzGBj?format=png&name=large
+2025-07-11 00:13:23,111 - INFO - 爬取结束，达到目标帖子数量或被手动停止
+2025-07-11 00:13:23,111 - INFO - 开始下载: https://pbs.twimg.com/media/GvdtOoZakAIUUBF?format=png&name=large
+2025-07-11 00:13:23,111 - INFO - 等待所有图片下载完成...
+2025-07-11 00:13:43,247 - INFO - GvdtOXzWAAEzGBj.png 下载完成
+2025-07-11 00:13:43,632 - INFO - GvdtAsBakAAGulL.png 下载完成
+2025-07-11 00:13:43,686 - INFO - GvLP2rabYAAC_Ca.png 下载完成
+2025-07-11 00:13:43,884 - INFO - Gva-ZAYWsAAjNnu.png 下载完成
+2025-07-11 00:13:44,099 - INFO - Gva-ZAcWQAAwNpv.png 下载完成
+2025-07-11 00:13:46,240 - INFO - GvLP2r-XsAAO0u9.png 下载完成
+2025-07-11 00:13:46,328 - INFO - GvKweXdWUAAhhc0.png 下载完成
+2025-07-11 00:13:50,111 - INFO - GvLP2r-WUAAy0ge.png 下载完成
+2025-07-11 00:13:52,733 - INFO - GvdtOoZakAIUUBF.png 下载完成
+2025-07-11 00:13:53,050 - INFO - GvLP2rZaYAAh5Fj.png 下载完成
+2025-07-11 00:13:55,777 - INFO - GvKweXcXQAA_6oV.png 下载完成
+2025-07-11 00:13:55,881 - INFO - GvKweXfXgAAZP0O.png 下载完成
+2025-07-11 00:13:56,685 - INFO - GvRFMqnWMAAUWiK.png 下载完成
+2025-07-11 00:13:58,110 - INFO - GvKweXdXAAE5-Me.png 下载完成
+2025-07-11 00:13:58,717 - INFO - GvEy-lnXMAASuJC.png 下载完成
+2025-07-11 00:13:58,868 - INFO - Gvd3EgTakAAALwE.png 下载完成
+2025-07-11 00:13:59,450 - INFO - GvEy-loWkAAF44y.png 下载完成
+2025-07-11 00:13:59,941 - INFO - Gva9F0YW8AA3i8X.png 下载完成
+2025-07-11 00:14:02,618 - INFO - GvRFMp_a0AEM0H8.png 下载完成
+2025-07-11 00:14:04,340 - INFO - GvEzghvXUAA-5vT.png 下载完成
+2025-07-11 00:14:05,308 - INFO - GvEy-lrXMAAbth-.png 下载完成
+2025-07-11 00:14:05,648 - INFO - GvEy-lmXsAAzDKm.png 下载完成
+2025-07-11 00:14:11,271 - INFO - Gva-Y_qbsAAKMdJ.png 下载完成
+2025-07-11 00:14:11,779 - INFO - 所有图片下载完成！
+2025-07-11 00:14:11,785 - INFO - 共找到 10 条带图片的帖子
+2025-07-11 00:14:11,786 - INFO - 共下载了 23 张图片
+2025-07-11 00:14:11,787 - INFO - 正在从日志文件中提取媒体链接...
+2025-07-11 00:14:11,787 - INFO - 文件检查统计: 找到 23 个文件, 丢失 0 个文件
+2025-07-11 00:14:11,788 - INFO - 已将 23 个媒体链接及其文件状态保存到 result_宋雨琦_20250711_001144/hot_crawler_result/image.txt
+2025-07-11 00:14:11,981 - INFO - 程序已安全退出。
+2025-07-11 00:14:11,982 - INFO - 热度爬虫结果已保存到: result_宋雨琦_20250711_001144/hot_crawler_result
+2025-07-11 00:14:11,983 - INFO - 正在从日志文件中提取媒体链接...
+2025-07-11 00:14:11,983 - INFO - 日志文件 result_宋雨琦_20250711_001144/hot_crawler_result/宋雨琦_dianzan_log.txt 不存在
+2025-07-11 00:14:11,983 - INFO - 未找到任何媒体链接
+2025-07-11 00:14:11,983 - INFO - 爬取任务执行完成！
+2025-07-11 00:14:11,983 - INFO - 爬虫任务已完成！
+2025-07-11 00:14:58,431 - INFO - 配置已成功保存到config.py文件！
+2025-07-11 00:15:00,641 - INFO - 已重新加载最新配置文件和相关模块
+2025-07-11 00:15:00,652 - INFO - 创建结果文件夹: result_叶舒华_20250711_001500
+2025-07-11 00:15:00,652 - INFO - 开始执行全部爬取模式...
+2025-07-11 00:15:00,653 - INFO - 开始运行Twitter爬虫...
+2025-07-11 00:15:00,653 - INFO - 将爬取 2025-06-25 到 2025-07-05 之间的帖子
+2025-07-11 00:15:11,497 - INFO - 设置cookie中.....
+2025-07-11 00:15:11,514 - INFO - Cookie设置完成
+2025-07-11 00:15:11,515 - INFO - 访问推特页面中.....
+2025-07-11 00:15:12,531 - INFO - 准备获取数据中.....
+2025-07-11 00:15:13,532 - INFO - 开始爬取数据...., url为：https://x.com/search?q=叶舒华&src=typed_query&f=live
+2025-07-11 00:15:13,532 - INFO - 重置浏览器状态...
+2025-07-11 00:15:17,465 - INFO - 浏览器状态已重置
+2025-07-11 00:15:17,467 - INFO - 等待页面加载...
+2025-07-11 00:15:17,467 - INFO - 正在等待页面元素加载，最长等待时间为60秒...
+2025-07-11 00:15:36,937 - INFO - 找到 11 个帖子元素
+2025-07-11 00:15:36,973 - INFO - 跳过时间范围外的帖子：https://x.com/tsuzuji1/status/1943306866039402626
+2025-07-11 00:15:36,975 - INFO - 帖子时间：2025-07-10T13:50:36.000Z
+2025-07-11 00:15:36,983 - INFO - 跳过时间范围外的帖子：https://x.com/birdasuka_azim/status/1942615021088882894
+2025-07-11 00:15:36,989 - INFO - 帖子时间：2025-07-08T16:01:27.000Z
+2025-07-11 00:15:36,992 - INFO - 跳过时间范围外的帖子：https://x.com/SH_HMMCS/status/1942578093505536033
+2025-07-11 00:15:36,994 - INFO - 帖子时间：2025-07-08T13:34:43.000Z
+2025-07-11 00:15:37,001 - INFO - 跳过时间范围外的帖子：https://x.com/oldmoney78/status/1942430911221620926
+2025-07-11 00:15:37,003 - INFO - 帖子时间：2025-07-08T03:49:52.000Z
+2025-07-11 00:15:37,009 - INFO - 跳过时间范围外的帖子：https://x.com/lyr1586762/status/1942056829103796465
+2025-07-11 00:15:37,010 - INFO - 帖子时间：2025-07-07T03:03:24.000Z
+2025-07-11 00:15:37,016 - INFO - 跳过时间范围外的帖子：https://x.com/fengzhongguang1/status/1941897400886465021
+2025-07-11 00:15:37,018 - INFO - 帖子时间：2025-07-06T16:29:53.000Z
+2025-07-11 00:15:37,030 - INFO - 跳过时间范围外的帖子：https://x.com/NebularAllison/status/1941787696252502372
+2025-07-11 00:15:37,032 - INFO - 帖子时间：2025-07-06T09:13:58.000Z
+2025-07-11 00:15:37,038 - INFO - 跳过时间范围外的帖子：https://x.com/oldmoney78/status/1941664127426166967
+2025-07-11 00:15:37,039 - INFO - 帖子时间：2025-07-06T01:02:57.000Z
+2025-07-11 00:15:37,045 - INFO - 跳过时间范围外的帖子：https://x.com/oldmoney78/status/1941652685230571863
+2025-07-11 00:15:37,046 - INFO - 帖子时间：2025-07-06T00:17:28.000Z
+2025-07-11 00:15:37,057 - INFO - 当前帖子的url为：https://x.com/oldmoney78/status/1941639373759697138
+2025-07-11 00:15:37,058 - INFO - 时间为：2025-07-05T23:24:35.000Z，找到1张图片
+2025-07-11 00:15:37,070 - INFO - 当前帖子的url为：https://x.com/oldmoney78/status/1941532337570972062
+2025-07-11 00:15:37,072 - INFO - 时间为：2025-07-05T16:19:15.000Z，找到1张图片
+2025-07-11 00:15:40,128 - INFO - 跳过时间范围外的帖子：https://x.com/oldmoney78/status/1942430911221620926
+2025-07-11 00:15:40,130 - INFO - 帖子时间：2025-07-08T03:49:52.000Z
+2025-07-11 00:15:40,139 - INFO - 跳过时间范围外的帖子：https://x.com/lyr1586762/status/1942056829103796465
+2025-07-11 00:15:40,141 - INFO - 帖子时间：2025-07-07T03:03:24.000Z
+2025-07-11 00:15:40,149 - INFO - 跳过时间范围外的帖子：https://x.com/fengzhongguang1/status/1941897400886465021
+2025-07-11 00:15:40,151 - INFO - 帖子时间：2025-07-06T16:29:53.000Z
+2025-07-11 00:15:40,158 - INFO - 跳过时间范围外的帖子：https://x.com/NebularAllison/status/1941787696252502372
+2025-07-11 00:15:40,160 - INFO - 帖子时间：2025-07-06T09:13:58.000Z
+2025-07-11 00:15:40,167 - INFO - 跳过时间范围外的帖子：https://x.com/oldmoney78/status/1941664127426166967
+2025-07-11 00:15:40,168 - INFO - 帖子时间：2025-07-06T01:02:57.000Z
+2025-07-11 00:15:40,174 - INFO - 跳过时间范围外的帖子：https://x.com/oldmoney78/status/1941652685230571863
+2025-07-11 00:15:40,176 - INFO - 帖子时间：2025-07-06T00:17:28.000Z
+2025-07-11 00:15:40,184 - INFO - 当前帖子的url为：https://x.com/oldmoney78/status/1941639373759697138
+2025-07-11 00:15:40,184 - INFO - 时间为：2025-07-05T23:24:35.000Z，找到1张图片
+2025-07-11 00:15:40,194 - INFO - 当前帖子的url为：https://x.com/oldmoney78/status/1941532337570972062
+2025-07-11 00:15:40,196 - INFO - 时间为：2025-07-05T16:19:15.000Z，找到1张图片
+2025-07-11 00:15:40,205 - INFO - 当前帖子的url为：https://x.com/oldmoney78/status/1941517617988284884
+2025-07-11 00:15:40,206 - INFO - 时间为：2025-07-05T15:20:46.000Z，找到1张图片
+2025-07-11 00:15:40,216 - INFO - 当前帖子的url为：https://x.com/oldmoney78/status/1941383286321971574
+2025-07-11 00:15:40,217 - INFO - 时间为：2025-07-05T06:26:59.000Z，找到1张图片
+2025-07-11 00:15:40,227 - INFO - 当前帖子的url为：https://x.com/oldmoney78/status/1941377972033974447
+2025-07-11 00:15:40,229 - INFO - 时间为：2025-07-05T06:05:52.000Z，找到1张图片
+2025-07-11 00:15:40,238 - INFO - 当前帖子的url为：https://x.com/oldmoney78/status/1941374857419293057
+2025-07-11 00:15:40,239 - INFO - 时间为：2025-07-05T05:53:29.000Z，找到1张图片
+2025-07-11 00:15:40,248 - INFO - 当前帖子的url为：https://x.com/oldmoney78/status/1941372766189699493
+2025-07-11 00:15:40,249 - INFO - 时间为：2025-07-05T05:45:11.000Z，找到1张图片
+2025-07-11 00:15:40,259 - INFO - 当前帖子的url为：https://x.com/ne_p12/status/1941356480118259912
+2025-07-11 00:15:40,260 - INFO - 时间为：2025-07-05T04:40:28.000Z，找到1张图片
+2025-07-11 00:15:40,270 - INFO - 当前帖子的url为：https://x.com/oldmoney78/status/1941343261546906021
+2025-07-11 00:15:40,271 - INFO - 时间为：2025-07-05T03:47:56.000Z，找到1张图片
+2025-07-11 00:15:40,280 - INFO - 当前帖子的url为：https://x.com/Amuse718413/status/1941223541946581242
+2025-07-11 00:15:40,281 - INFO - 时间为：2025-07-04T19:52:13.000Z，找到7张图片
+2025-07-11 00:15:40,297 - INFO - 当前帖子的url为：https://x.com/stvshipton/status/1941148381264621975
+2025-07-11 00:15:40,298 - INFO - 时间为：2025-07-04T14:53:33.000Z，找到1张图片
+2025-07-11 00:15:40,308 - INFO - 当前帖子的url为：https://x.com/ne_p12/status/1940730574584664526
+2025-07-11 00:15:40,309 - INFO - 时间为：2025-07-03T11:13:20.000Z，找到2张图片
+2025-07-11 00:15:40,319 - INFO - 当前帖子的url为：https://x.com/sleepy0x13/status/1940666200247464269
+2025-07-11 00:15:40,320 - INFO - 时间为：2025-07-03T06:57:32.000Z，找到2张图片
+2025-07-11 00:15:40,331 - INFO - 当前帖子的url为：https://x.com/escapewith647/status/1940341528750420439
+2025-07-11 00:15:40,332 - INFO - 时间为：2025-07-02T09:27:24.000Z，找到1张图片
+2025-07-11 00:15:43,356 - INFO - 获取到帖子时间为2025-06-19T13:07:34.000Z，已经超出start_time，停止获取新帖子
+2025-07-11 00:15:43,357 - INFO - ==============================下载线程继续运行==============================
+2025-07-11 00:15:47,492 - INFO - 收到结束信号，结束下载线程
+2025-07-11 00:15:47,495 - INFO - 正在从日志中提取媒体链接...
+2025-07-11 00:15:47,495 - INFO - 日志文件 download_log.txt 不存在
+2025-07-11 00:15:47,495 - INFO - 未找到媒体链接或保存失败
+2025-07-11 00:15:47,495 - INFO - 所有下载任务已完成
+2025-07-11 00:15:47,495 - INFO - 共下载 0 张图片
+2025-07-11 00:15:47,495 - INFO - 程序已安全退出。
+2025-07-11 00:15:47,495 - INFO - Twitter爬虫结果已保存到: result_叶舒华_20250711_001500/time_crawler_result
+2025-07-11 00:15:47,496 - INFO - 正在从日志文件中提取媒体链接...
+2025-07-11 00:15:47,496 - INFO - 未找到任何媒体链接
+2025-07-11 00:15:47,813 - INFO - 浏览器正在关闭...
+2025-07-11 00:15:48,828 - INFO - 浏览器已成功关闭
+2025-07-11 00:15:48,829 - INFO - 开始运行根据热度（点赞数）爬取图片...
+2025-07-11 00:15:48,839 - INFO - 图片将保存在文件夹: result_叶舒华_20250711_001500/hot_crawler_result
+2025-07-11 00:15:48,840 - INFO - 目标爬取帖子数量: 10
+2025-07-11 00:15:48,841 - INFO - 日志文件: result_叶舒华_20250711_001500/hot_crawler_result/@叶舒华_dianzan_log.txt
+2025-07-11 00:15:56,863 - INFO - 设置cookie中.....
+2025-07-11 00:15:56,913 - INFO - Cookie设置完成
+2025-07-11 00:15:56,913 - INFO - 访问推特页面中.....
+2025-07-11 00:15:57,975 - INFO - 准备获取数据中.....
+2025-07-11 00:15:58,980 - INFO - 开始爬取数据...., url为：https://x.com/hashtag/叶舒华?src=hashtag_click
+2025-07-11 00:15:58,985 - INFO - 等待页面加载...
+2025-07-11 00:16:07,039 - INFO - 页面暂时没有新内容，继续尝试...
+2025-07-11 00:16:15,068 - INFO - 页面暂时没有新内容，继续尝试...
+2025-07-11 00:16:24,131 - INFO - 帖子 未知链接 没有图片，跳过
+2025-07-11 00:16:24,137 - INFO - 帖子 未知链接 没有图片，跳过
+2025-07-11 00:16:24,149 - INFO - 帖子 未知链接 没有图片，跳过
+2025-07-11 00:16:24,156 - INFO - 帖子 未知链接 没有图片，跳过
+2025-07-11 00:16:24,162 - INFO - 帖子 未知链接 没有图片，跳过
+2025-07-11 00:16:24,167 - INFO - 帖子 未知链接 没有图片，跳过
+2025-07-11 00:16:24,171 - INFO - 帖子 未知链接 没有图片，跳过
+2025-07-11 00:16:24,189 - INFO - 找到第 1/10 条带图片的帖子
+2025-07-11 00:16:24,192 - INFO - 帖子链接: https://x.com/greendiary_gif/status/1780119986142413271
+2025-07-11 00:16:24,192 - INFO - 发布时间: 2024-04-16T06:24:12.000Z
+2025-07-11 00:16:24,192 - INFO - 找到 2 张图片
+2025-07-11 00:16:24,192 - INFO - 媒体链接: https://pbs.twimg.com/media/GLRBqNTWwAAvAKf?format=png&name=large
+2025-07-11 00:16:24,192 - INFO - 媒体链接: https://pbs.twimg.com/media/GLRBqNLWIAAkF_c?format=png&name=large
+2025-07-11 00:16:24,193 - INFO - 开始下载: https://pbs.twimg.com/media/GLRBqNTWwAAvAKf?format=png&name=large
+2025-07-11 00:16:24,209 - INFO - 开始下载: https://pbs.twimg.com/media/GLRBqNLWIAAkF_c?format=png&name=large
+2025-07-11 00:16:24,215 - INFO - 找到第 2/10 条带图片的帖子
+2025-07-11 00:16:24,219 - INFO - 帖子链接: https://x.com/chapter_ysh/status/1798633241391550924
+2025-07-11 00:16:24,219 - INFO - 发布时间: 2024-06-06T08:29:16.000Z
+2025-07-11 00:16:24,220 - INFO - 找到 2 张图片
+2025-07-11 00:16:24,220 - INFO - 媒体链接: https://pbs.twimg.com/media/GPYHZhBaQAABSwv?format=png&name=large
+2025-07-11 00:16:24,220 - INFO - 开始下载: https://pbs.twimg.com/media/GPYHZhBaQAABSwv?format=png&name=large
+2025-07-11 00:16:24,220 - INFO - 媒体链接: https://pbs.twimg.com/media/GPYHZhBa8AAodav?format=png&name=large
+2025-07-11 00:16:24,220 - INFO - 开始下载: https://pbs.twimg.com/media/GPYHZhBa8AAodav?format=png&name=large
+2025-07-11 00:16:24,236 - INFO - 找到第 3/10 条带图片的帖子
+2025-07-11 00:16:24,238 - INFO - 帖子链接: https://x.com/SweetieCandy106/status/1936765485930131519
+2025-07-11 00:16:24,238 - INFO - 发布时间: 2025-06-22T12:37:29.000Z
+2025-07-11 00:16:24,238 - INFO - 找到 3 张图片
+2025-07-11 00:16:24,238 - INFO - 媒体链接: https://pbs.twimg.com/media/GuDF3bzWwAA1g0K?format=png&name=large
+2025-07-11 00:16:24,238 - INFO - 媒体链接: https://pbs.twimg.com/media/GuDF3bKakAA6LoA?format=png&name=large
+2025-07-11 00:16:24,239 - INFO - 开始下载: https://pbs.twimg.com/media/GuDF3bzWwAA1g0K?format=png&name=large
+2025-07-11 00:16:24,239 - INFO - 开始下载: https://pbs.twimg.com/media/GuDF3bKakAA6LoA?format=png&name=large
+2025-07-11 00:16:24,240 - INFO - 媒体链接: https://pbs.twimg.com/media/GuDF3cqWcAEzZc2?format=png&name=large
+2025-07-11 00:16:24,240 - INFO - 开始下载: https://pbs.twimg.com/media/GuDF3cqWcAEzZc2?format=png&name=large
+2025-07-11 00:16:24,250 - INFO - 帖子 https://x.com/vivianongjy0913/status/1835457566966419561 没有图片，跳过
+2025-07-11 00:16:27,278 - INFO - 找到第 4/10 条带图片的帖子
+2025-07-11 00:16:27,280 - INFO - 帖子链接: https://x.com/chapter_ysh/status/1842184482692247713
+2025-07-11 00:16:27,280 - INFO - 发布时间: 2024-10-04T12:46:21.000Z
+2025-07-11 00:16:27,280 - INFO - 找到 1 张图片
+2025-07-11 00:16:27,281 - INFO - 媒体链接: https://pbs.twimg.com/media/GZDBA6XbIAA839R?format=png&name=large
+2025-07-11 00:16:27,281 - INFO - 开始下载: https://pbs.twimg.com/media/GZDBA6XbIAA839R?format=png&name=large
+2025-07-11 00:16:27,294 - INFO - 找到第 5/10 条带图片的帖子
+2025-07-11 00:16:27,296 - INFO - 帖子链接: https://x.com/SweetieCandy106/status/1931378531667517862
+2025-07-11 00:16:27,296 - INFO - 发布时间: 2025-06-07T15:51:39.000Z
+2025-07-11 00:16:27,296 - INFO - 找到 3 张图片
+2025-07-11 00:16:27,296 - INFO - 媒体链接: https://pbs.twimg.com/media/Gs2igT_akAEYYEK?format=png&name=large
+2025-07-11 00:16:27,297 - INFO - 媒体链接: https://pbs.twimg.com/media/Gs2igUBbAAA_GEY?format=png&name=large
+2025-07-11 00:16:27,297 - INFO - 开始下载: https://pbs.twimg.com/media/Gs2igT_akAEYYEK?format=png&name=large
+2025-07-11 00:16:27,297 - INFO - 开始下载: https://pbs.twimg.com/media/Gs2igUBbAAA_GEY?format=png&name=large
+2025-07-11 00:16:27,298 - INFO - 媒体链接: https://pbs.twimg.com/media/Gs2igUBbYAACW3r?format=png&name=large
+2025-07-11 00:16:27,298 - INFO - 开始下载: https://pbs.twimg.com/media/Gs2igUBbYAACW3r?format=png&name=large
+2025-07-11 00:16:27,310 - INFO - 找到第 6/10 条带图片的帖子
+2025-07-11 00:16:27,311 - INFO - 帖子链接: https://x.com/SweetieCandy106/status/1936376809714782412
+2025-07-11 00:16:27,311 - INFO - 发布时间: 2025-06-21T10:53:02.000Z
+2025-07-11 00:16:27,311 - INFO - 找到 1 张图片
+2025-07-11 00:16:27,312 - INFO - 媒体链接: https://pbs.twimg.com/media/Gt9kcGHWsAAclfA?format=png&name=large
+2025-07-11 00:16:27,312 - INFO - 开始下载: https://pbs.twimg.com/media/Gt9kcGHWsAAclfA?format=png&name=large
+2025-07-11 00:16:27,325 - INFO - 找到第 7/10 条带图片的帖子
+2025-07-11 00:16:27,327 - INFO - 帖子链接: https://x.com/ktx_005/status/1682230349965967360
+2025-07-11 00:16:27,327 - INFO - 发布时间: 2023-07-21T03:25:44.000Z
+2025-07-11 00:16:27,327 - INFO - 找到 2 张图片
+2025-07-11 00:16:27,327 - INFO - 媒体链接: https://pbs.twimg.com/media/F1h7kOhaIAEuiVY?format=png&name=large
+2025-07-11 00:16:27,328 - INFO - 媒体链接: https://pbs.twimg.com/media/F1h7lDhaUAACBE4?format=png&name=large
+2025-07-11 00:16:27,328 - INFO - 开始下载: https://pbs.twimg.com/media/F1h7kOhaIAEuiVY?format=png&name=large
+2025-07-11 00:16:27,328 - INFO - 开始下载: https://pbs.twimg.com/media/F1h7lDhaUAACBE4?format=png&name=large
+2025-07-11 00:16:27,343 - INFO - 找到第 8/10 条带图片的帖子
+2025-07-11 00:16:27,345 - INFO - 帖子链接: https://x.com/theBrightMoon97/status/1641819364935749632
+2025-07-11 00:16:27,345 - INFO - 发布时间: 2023-03-31T15:06:54.000Z
+2025-07-11 00:16:27,345 - INFO - 找到 2 张图片
+2025-07-11 00:16:27,345 - INFO - 媒体链接: https://pbs.twimg.com/media/FsjqADiaMAM5DPv?format=png&name=large
+2025-07-11 00:16:27,345 - INFO - 媒体链接: https://pbs.twimg.com/media/FsjqADhaUAAZ4mM?format=png&name=large
+2025-07-11 00:16:27,346 - INFO - 开始下载: https://pbs.twimg.com/media/FsjqADiaMAM5DPv?format=png&name=large
+2025-07-11 00:16:27,346 - INFO - 开始下载: https://pbs.twimg.com/media/FsjqADhaUAAZ4mM?format=png&name=large
+2025-07-11 00:16:27,363 - INFO - 帖子 https://x.com/vivianongjy0913/status/1835454545788391662 没有图片，跳过
+2025-07-11 00:16:27,379 - INFO - 找到第 9/10 条带图片的帖子
+2025-07-11 00:16:27,380 - INFO - 帖子链接: https://x.com/SweetieCandy106/status/1936765286801432787
+2025-07-11 00:16:27,380 - INFO - 发布时间: 2025-06-22T12:36:42.000Z
+2025-07-11 00:16:27,381 - INFO - 找到 3 张图片
+2025-07-11 00:16:27,381 - INFO - 媒体链接: https://pbs.twimg.com/media/GuDFsUgW8AAjP1f?format=png&name=large
+2025-07-11 00:16:27,381 - INFO - 媒体链接: https://pbs.twimg.com/media/GuDFsUQW8AAuyv7?format=png&name=large
+2025-07-11 00:16:27,381 - INFO - 开始下载: https://pbs.twimg.com/media/GuDFsUgW8AAjP1f?format=png&name=large
+2025-07-11 00:16:27,381 - INFO - 媒体链接: https://pbs.twimg.com/media/GuDFsUeWQAE5QJy?format=png&name=large
+2025-07-11 00:16:27,381 - INFO - 开始下载: https://pbs.twimg.com/media/GuDFsUQW8AAuyv7?format=png&name=large
+2025-07-11 00:16:27,382 - INFO - 开始下载: https://pbs.twimg.com/media/GuDFsUeWQAE5QJy?format=png&name=large
+2025-07-11 00:16:29,267 - INFO - GLRBqNLWIAAkF_c.png 下载完成
+2025-07-11 00:16:29,274 - INFO - GLRBqNTWwAAvAKf.png 下载完成
+2025-07-11 00:16:30,435 - INFO - 找到第 10/10 条带图片的帖子
+2025-07-11 00:16:30,437 - INFO - 帖子链接: https://x.com/Warm_Fall_Story/status/1774804601826648529
+2025-07-11 00:16:30,437 - INFO - 发布时间: 2024-04-01T14:22:46.000Z
+2025-07-11 00:16:30,438 - INFO - 找到 1 张图片
+2025-07-11 00:16:30,438 - INFO - 媒体链接: https://pbs.twimg.com/media/GKFfXziaAAASZWa?format=png&name=large
+2025-07-11 00:16:30,438 - INFO - 爬取结束，达到目标帖子数量或被手动停止
+2025-07-11 00:16:30,438 - INFO - 开始下载: https://pbs.twimg.com/media/GKFfXziaAAASZWa?format=png&name=large
+2025-07-11 00:16:30,439 - INFO - 等待所有图片下载完成...
+2025-07-11 00:16:32,077 - INFO - GPYHZhBa8AAodav.png 下载完成
+2025-07-11 00:16:43,125 - INFO - FsjqADiaMAM5DPv.png 下载完成
+2025-07-11 00:16:44,097 - INFO - GZDBA6XbIAA839R.png 下载完成
+2025-07-11 00:16:44,249 - INFO - GuDF3bzWwAA1g0K.png 下载完成
+2025-07-11 00:16:44,791 - INFO - GuDF3cqWcAEzZc2.png 下载完成
+2025-07-11 00:16:46,248 - INFO - GKFfXziaAAASZWa.png 下载完成
+2025-07-11 00:16:46,593 - INFO - GPYHZhBaQAABSwv.png 下载完成
+2025-07-11 00:16:47,208 - INFO - GuDF3bKakAA6LoA.png 下载完成
+2025-07-11 00:16:47,665 - INFO - FsjqADhaUAAZ4mM.png 下载完成
+2025-07-11 00:16:50,599 - INFO - GuDFsUQW8AAuyv7.png 下载完成
+2025-07-11 00:16:53,857 - INFO - GuDFsUgW8AAjP1f.png 下载完成
+2025-07-11 00:16:54,731 - INFO - F1h7lDhaUAACBE4.png 下载完成
+2025-07-11 00:16:56,548 - INFO - F1h7kOhaIAEuiVY.png 下载完成
+2025-07-11 00:16:56,695 - INFO - Gs2igUBbYAACW3r.png 下载完成
+2025-07-11 00:16:56,782 - INFO - Gs2igUBbAAA_GEY.png 下载完成
+2025-07-11 00:16:57,170 - INFO - Gt9kcGHWsAAclfA.png 下载完成
+2025-07-11 00:16:57,527 - INFO - GuDFsUeWQAE5QJy.png 下载完成
+2025-07-11 00:16:58,112 - INFO - Gs2igT_akAEYYEK.png 下载完成
+2025-07-11 00:16:58,618 - INFO - 所有图片下载完成！
+2025-07-11 00:16:58,621 - INFO - 共找到 10 条带图片的帖子
+2025-07-11 00:16:58,622 - INFO - 共下载了 20 张图片
+2025-07-11 00:16:58,622 - INFO - 正在从日志文件中提取媒体链接...
+2025-07-11 00:16:58,622 - INFO - 文件检查统计: 找到 20 个文件, 丢失 0 个文件
+2025-07-11 00:16:58,623 - INFO - 已将 20 个媒体链接及其文件状态保存到 result_叶舒华_20250711_001500/hot_crawler_result/image.txt
+2025-07-11 00:16:58,793 - INFO - 程序已安全退出。
+2025-07-11 00:16:58,795 - INFO - 热度爬虫结果已保存到: result_叶舒华_20250711_001500/hot_crawler_result
+2025-07-11 00:16:58,795 - INFO - 正在从日志文件中提取媒体链接...
+2025-07-11 00:16:58,796 - INFO - 日志文件 result_叶舒华_20250711_001500/hot_crawler_result/叶舒华_dianzan_log.txt 不存在
+2025-07-11 00:16:58,796 - INFO - 未找到任何媒体链接
+2025-07-11 00:16:58,796 - INFO - 爬取任务执行完成！
+2025-07-11 00:16:58,796 - INFO - 爬虫任务已完成！
